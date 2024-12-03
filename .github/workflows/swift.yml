@@ -1,0 +1,35 @@
+# This workflow will build a Swift project
+# For more information see: https://docs.github.com/en/actions/automating-builds-and-tests/building-and-testing-swift
+
+name: Swift
+
+on:
+  push:
+    branches: [ "main" ]
+  pull_request:
+    branches: [ "main" ]
+
+jobs:
+  build:
+
+    runs-on: macos-latest
+
+    steps:
+    - name: Checkout Code
+      uses: actions/checkout@v4
+
+    - name: Set up Xcode
+      uses: maxim-lobanov/setup-xcode@v2
+      with:
+        xcode-version: '15.0' 
+
+    - name: Build Swift package
+      run: xcodebuild -scheme "Piyola" -configuration Release build
+      env:
+        CI: true
+        
+    - name: Run tests
+      run: xcodebuild -scheme "Piyola" test -destination 'platform=iOS Simulator,name=iPhone 12'
+      env:
+        CI: true
+
