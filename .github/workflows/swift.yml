@@ -24,12 +24,12 @@ jobs:
         xcode-version: '15.0' 
 
     - name: Build Swift package
-      run: xcodebuild -scheme "Piyola" -configuration Release -destination 'platform=iOS Simulator,name=iPhone 15' build
+      run: swift build
       env:
         CI: true
         
     - name: Run tests
-      run: xcodebuild -scheme "Piyola" test -destination 'platform=iOS Simulator,name=iPhone 12'
+      run: swift test
       env:
         CI: true
 
