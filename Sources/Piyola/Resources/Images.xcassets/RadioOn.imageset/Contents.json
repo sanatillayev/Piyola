@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "RadioOff.svg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

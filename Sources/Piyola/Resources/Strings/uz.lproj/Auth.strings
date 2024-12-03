@@ -1,0 +1,27 @@
+/* 
+  Localizable.strings
+  
+
+  Created by Asilbek Isakov on 13/01/24.
+  
+*/
+
+"phoneTitle" = "Telefon raqamingizni kiriting";
+"phoneSubtitle" = "Sizga tasdiqlash uchun SMS-kod yuboramiz";
+"number" = "Telefon raqamingiz";
+"phoneInvalid" = "Telefon raqami noto‘g‘ri";
+
+"otpTitle" = "Raqamingizni tasdiqlang";
+"otpSubtitle" = "%@ raqamiga yuborilgan kodni kiriting";
+"sendAgain" = "Qayta yuborish";
+"otpInvalid" = "Tasdiqlash kodi noto'g'ri";
+
+"signUp" = "Ro‘yxatdan o‘tish";
+"password" = "Parol";
+"repeatPassword" = "Parolni takrorlang";
+
+"alreadyHaveAccount" = "Ro‘yxatdan o‘tganmisiz?";
+"login" = "Kirish";
+"activationRequired" = "Hisobni faollashtirish talab qilinadi";
+"activationDescription" = "Hisobingizni faollashtirish uchun restoranga murojaat qiling."
+"dontHaveAccount" = "Hisobingiz yo‘qmi?";

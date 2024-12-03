@@ -1,0 +1,32 @@
+input_dir: Sources/Piyola/Resources
+output_dir: Sources/Piyola/Generated
+
+xcassets:
+  - inputs: Colors.xcassets
+    outputs:
+      - templatePath: swift5.stencil
+        output: Colors+Generated.swift
+        params:
+          enumName: Colors
+          bundle: Bundle.module
+          publicAccess: true
+  - inputs: Images.xcassets
+    outputs:
+      - templatePath: swift5.stencil
+        output: Images+Generated.swift
+        params:
+          enumName: Images
+          bundle: Bundle.module
+          publicAccess: true
+
+strings:
+  inputs:
+    - Strings/en.lproj
+  filter: .+\.strings$
+  outputs:
+    templateName: structured-swift5
+    output: L10n+Generated.swift
+    params:
+      publicAccess: true
+      lookupFunction: TranslationProxy.translationLoader.translate
+  OTHER_LDFLAGS: -ObjC

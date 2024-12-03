@@ -1,0 +1,39 @@
+/*
+  Localizable.strings
+  
+
+  Created by Asilbek Isakov on 11/01/24.
+  
+*/
+
+"settings" = "Sozlamalar";
+"newOrder" = "Yangi buyurtma";
+"orders" = "Buyurtmalar";
+
+"home" = "Asosiy";
+"cart" = "Savatcha";
+"profile" = "Profil";
+"delivery" = "Yetkazib berish";
+"pickUp" = "Olib ketish";
+"selectBranch" = "Filialni tanlang";
+"selectAddress" = "Manzilni tanlang";
+
+"accepted" = "Qabul qilindi";
+"cooking" = "Tayyorlanmoqda";
+"onWay" = "Yetkazilmoqda";
+"delivered" = "Yetkazildi";
+"ready" = "Tayyor";
+"activeOrders" = "Aktiv buyurtmalaringiz";
+"archiveOrders" = "Arxiv buyurtmalar";
+"addToCart" = "Savatga";
+"result" = "Natija";
+"history" = "Qidiruv tarixi";
+"openMap" = "Xaritani ochish";
+"addAddress" = "Manzil qo'shish";
+
+"all" = "Barchasi";
+"calls" = "Qo'ng'iroqlar";
+"notifications" = "Xabarlar";
+"promocodes" = "Promokodlar";
+"addresses" = "Manzillar";
+"devices" = "Qurilmalar";

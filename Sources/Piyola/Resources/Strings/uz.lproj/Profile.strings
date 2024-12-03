@@ -1,0 +1,61 @@
+/*
+  Localizable.strings
+  
+
+  Created by Asilbek Isakov on 11/01/24.
+  
+*/
+
+"loginTitle" = "Kirish yoki ro‘yxatdan o‘tish";
+"loginSubtitle" = "Buyurtmalaringizni boshqarishingiz uchun shaxsiy profil yarating";
+
+"yourBranch" = "Filialingiz";
+"stoplist" = "Stoplist";
+"orders" = "Buyurtmalar";
+"clients" = "Mijozlar";
+"menu" = "Menyu";
+"address" = "Mening manzillarim";
+"promocode" = "Promokod";
+"vacancies" = "Vakansiyalar";
+"ourBranches" = "Bizning filiallarimiz";
+"about" = "Kompaniya haqida";
+"terms" = "Foydalanish shartlari";
+"privacy" = "Maxfiylik siyosati";
+"language" = "Til";
+"help" = "Yordam";
+"appearance" = "Ko‘rinish";
+"logout" = "Profildan chiqish";
+
+"logoutTitle" = "Profildan chiqmoqchimisiz?";
+
+"name" = "Ism";
+"birthday" = "Tug‘ilgan kun";
+"number" = "Telefon \nraqamingiz";
+"deleteAccount" = "Akkauntni o‘chirish";
+
+"dark" = "To’q";
+"light" = "Och";
+"beware" = "Ogoh bo'ling!";
+"deleteText" = "Akauntingizni oʻchirishga harakat qilyapsiz, haqiqatdan ham ishonchingiz komilmi?";
+"setBirthday" = "Tug'ilgan kuningizni belgilang";
+"changePhoto" = "Profil rasmini o'zgartirish";
+"gallery" = "Galereya";
+"camera" = "Kamera";
+"save" = "Saqlash";
+"copy" = "Nusxa";
+
+"orderHistoryEmpty" = "Buyurtmalar tarixi bo'sh";
+"promoEmpty" = "Promo kodlar mavjud emas";
+"vacancyEmpty" = "Bo'sh ish o'rinlari mavjud emas";
+"addressEmpty" = "Ваш список адресов пуст. Пожалуйста, добавьте адрес.";
+"orderHistory" = "Buyurtma tarixi";
+"changeName" = "Ismni o'zgartirish";
+"contactUs" = "Biz bilan bog’laning";
+"followUs" = "Ijtimoiy tarmoqlarda bizni kuzatib boring";
+"deleteAddress" = "Siz manzilingizni o'chirmoqchisiz, bunga ishonchingiz komilmi?";
+
+"edit" = "Tahrirlash";
+"emptyUsers" = "Foydalanuvchilar ro'yxati bo'sh";
+"emptyClients" = "Mijozlar ro'yxati bo'sh";
+"emptyCouriers" = "Kuryerlar ro'yxati bo'sh";
+"emptyStoplist" = "Stoplist bo'sh";

@@ -1,0 +1,47 @@
+/*
+  Localizable.strings
+  
+
+  Created by Bilol Sanatillayev on 14/11/24.
+  
+*/
+"main" = "Asosiy";
+"log" = "LOG";
+"receipt" = "Chek";
+"client" = "Mijoz";
+"operator" = "Operator";
+"add" = "Qo'shish";
+"notAssignedYet" = "Biriktirilmagan";
+"tariff" = "Yetkazib berish tarifi";
+"carNumber" = "Mashina raqami";
+"distanse" = "Masofa";
+"addressName" = "Manzil nomi";
+"asap" = "Tezroq";
+
+// courier statuses
+"newOrder" = "Yangi Buyurtma";
+"estimatingFailed" = "Baholash muvaffaqiyatsiz";
+"readyForApproval" = "Tasdiqlashga tayyor";
+"failed" = "Muvaffaqiyatsiz";
+"performerLookUp" = "Kuryer qidirilmoqda";
+"performerFound" = "Kuryer topildi";
+"performerNotFound" = "Kuryer topilmadi";
+"accepted" = "Qabul qilindi";
+"performerPickUpArrived" = "Olib ketish joyiga yetib keldi";
+"performerPickedUp" = "Olib ketildi";
+"performerArrived" = "Manzilga yetib keldi";
+"performerDeliveredFinish" = "Yetkazib berildi";
+"performerReturning" = "Qaytarilmoqda";
+"performerReturnArrived" = "Qaytish yetib keldi";
+"performerReturnedFinish" = "Qaytarildi";
+"cancelled" = "Bekor qilindi";
+
+"changeStatus" = "Buyurtma holatini o'zgartirish";
+"deliveryType" = "Yetkazib berish usuli";
+"pressToConfirm" = "Tasdiqlash uchun bosing";
+
+"showOnMap" = "Xaritada ko'rsatish";
+"emptyOrdersList" = "Buyurtmalar ro'yxati bo'sh";
+"photo" = "Rasm";
+"emptyCallHistory" = "Qo'ng'iroq tarixi bo'sh";
+"emptyPaymentHistory" = "To'lov tarixi bo'sh";

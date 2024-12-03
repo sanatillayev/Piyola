@@ -1,0 +1,14 @@
+/* 
+  Product.strings
+  
+
+  Created by Asilbek Isakov on 22/7/24.
+  
+*/
+
+"selectOne" = "Select one";
+"selectSeveral" = "Select several";
+"cooking" = "Cooking time:";
+"time" = "%@ - %@ min";
+"allProducts" = "Products";
+"copied" = "Copied";

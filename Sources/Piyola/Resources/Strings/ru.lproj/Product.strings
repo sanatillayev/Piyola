@@ -1,0 +1,14 @@
+/*
+  Product.strings
+  
+
+  Created by Asilbek Isakov on 22/7/24.
+  
+*/
+
+"selectOne" = "Выберите один";
+"selectSeveral" = "Выберите несколько";
+"cooking" = "Время готовки:";
+"time" = "%@ - %@ мин.";
+"allProducts" = "Все Продукты";
+"copied" = "Скопировано";

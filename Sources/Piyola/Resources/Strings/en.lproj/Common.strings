@@ -1,0 +1,23 @@
+/* 
+  Common.strings
+
+
+  Created by Asilbek Isakov on 11/01/24.
+  
+*/
+
+"no" = "No";
+"yes" = "Yes";
+"confirm" = "Confirm";
+"continue" = "Continue";
+"uzs" = "uzs";
+"min" = "min";
+"reload" = "Reload";
+"offline" = "Offline mode";
+"notConnected" = "Not connected to the internet";
+"update" = "Update";
+"updateTitle" = "Update the app";
+
+"gramm" = "gr.";
+"count" = "pcs";
+"liter" = "liter";

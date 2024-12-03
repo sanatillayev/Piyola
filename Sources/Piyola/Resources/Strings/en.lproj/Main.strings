@@ -1,0 +1,39 @@
+/*
+  Localizable.strings
+  
+
+  Created by Asilbek Isakov on 11/01/24.
+  
+*/
+"settings" = "Settings";
+"newOrder" = "New Order";
+"orders" = "Orders";
+
+
+"home" = "Home";
+"cart" = "Cart";
+"profile" = "Profile";
+"delivery" = "Delivery";
+"pickUp" = "Pick up";
+"selectBranch" = "Select Branch";
+"selectAddress" = "Select Address";
+
+"accepted" = "Accepted";
+"cooking" = "Cooking";
+"onWay" = "On the Way";
+"delivered" = "Delivered";
+"ready" = "Ready";
+"activeOrders" = "Active Orders";
+"archiveOrders" = "Archive Orders";
+"addToCart" = "Add to cart";
+"result" = "Result";
+"history" = "Search History";
+"openMap" = "Open map";
+"addAddress" = "Add address";
+
+"all" = "All";
+"calls" = "Calls";
+"notifications" = "Notifications";
+"promocodes" = "Promocodes";
+"addresses" = "Addresses";
+"devices" = "Devices";

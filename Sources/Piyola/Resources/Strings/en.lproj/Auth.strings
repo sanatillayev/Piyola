@@ -1,0 +1,28 @@
+/* 
+  Localizable.strings
+  
+
+  Created by Asilbek Isakov on 13/01/24.
+  
+*/
+
+"phoneTitle" = "Enter your phone number";
+"phoneSubtitle" = "We will send an OTP verification to you";
+"number" = "Phone number";
+"phoneInvalid" = "Invalid phone number";
+
+"otpTitle" = "Confirm your number";
+"otpSubtitle" = "Enter the code we sent you to the number %@";
+"sendAgain" = "Send again";
+"otpInvalid" = "Invalid verification code";
+
+
+"signUp" = "Sign Up";
+"password" = "Password";
+"repeatPassword" = "Repeat password";
+
+"alreadyHaveAccount" = "Already have an account?";
+"login" = "Login";
+"activationRequired" = "Account activation required";
+"activationDescription" = "Please contact the restaurant to activate your account";
+"dontHaveAccount" = "Don't have an account?";

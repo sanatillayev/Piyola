@@ -1,0 +1,27 @@
+/* 
+  Localizable.strings
+  
+
+  Created by Asilbek Isakov on 13/01/24.
+  
+*/
+
+"phoneTitle" = "Введите свой номер телефона";
+"phoneSubtitle" = "Мы отправим вам OTP-подтверждение";
+"number" = "Номер телефона";
+"phoneInvalid" = "Неправильный номер телефона";
+
+"otpTitle" = "Подтвердите свой номер телефона";
+"otpSubtitle" = "Введите код, который мы вам отправили на номер %@";
+"sendAgain" = "Отправить снова";
+"otpInvalid" = "Неправильный код подтверждения";
+
+"signUp" = "Зарегистрироваться";
+"password" = "Пароль";
+"repeatPassword" = "Повторите пароль";
+
+"alreadyHaveAccount" = "Уже есть аккаунт?";
+"login" = "Логин";
+"activationRequired" = "Требуется активация аккаунта";
+"activationDescription" = "Пожалуйста, свяжитесь с рестораном, чтобы активировать свой аккаунт";
+"dontHaveAccount" = "Нет аккаунта?";

@@ -1,0 +1,60 @@
+/*
+  Localizable.strings
+  
+
+  Created by Asilbek Isakov on 11/01/24.
+  
+*/
+
+"loginTitle" = "Sign In or Sign Up";
+"loginSubtitle" = "Create an account so you can manage your orders";
+
+"yourBranch" = "Your Branch";
+"stoplist" = "Stoplist";
+"orders" = "Orders";
+"clients" = "Clients";
+"menu" = "Menu";
+"address" = "My Address";
+"promocode" = "Promo code";
+"vacancies" = "Vacancies";
+"ourBranches" = "Our Branches";
+"about" = "About Company";
+"terms" = "Terms of Use";
+"privacy" = "Privacy Policy";
+"language" = "Language";
+"help" = "Help";
+"appearance" = "Appearance";
+"logout" = "Log out";
+"logoutTitle" = "Do you want to logout from profile?";
+
+"name" = "Name";
+"birthday" = "Birthday";
+"number" = "Number";
+"deleteAccount" = "Delete Account";
+
+"dark" = "Dark";
+"light" = "Light";
+"beware" = "Beware!";
+"deleteText" = "You’re trying to delete your account, are you really sure?";
+"setBirthday" = "Set your birthday";
+"changePhoto" = "Change profile photo";
+"gallery" = "Gallery";
+"camera" = "Camera";
+"save" = "Save";
+"copy" = "Copy";
+
+"orderHistoryEmpty" = "Order History is Empty";
+"promoEmpty" = "Promo codes are empty";
+"vacancyEmpty" = "Vacancies are empty";
+"addressEmpty" = "Your address list is empty. Please add an address.";
+"orderHistory" = "Order History";
+"changeName" = "Change name";
+"contactUs" = "Contact us";
+"followUs" = "Follow us on social media";
+"deleteAddress" = "You’re trying to delete your address, are you really sure?";
+
+"edit" = "Edit";
+"emptyUsers" = "Users list is empty";
+"emptyClients" = "Clients list is empty";
+"emptyCouriers" = "Couriers list is empty";
+"emptyStoplist" = "Stoplist is empty";

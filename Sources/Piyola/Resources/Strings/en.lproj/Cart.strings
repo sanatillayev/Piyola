@@ -1,0 +1,106 @@
+/*
+ Cart.strings
+  
+
+  Created by Bilol Sanatillayev on 04/06/24.
+  
+*/
+
+"clearCart" = "Clear Basket";
+"delete" = "Delete";
+"cancel" = "Cancel";
+
+"empty" = "Cart is empty";
+"emptySubtitle" = "This is necessary to start ordering products and tracking them.";
+
+"bill" = "Bill";
+"product" = "product";
+"checkout" = "Checkout";
+"discount" = "Discount";
+"promo" = "Promo code";
+"cashback" = "Cashback";
+"delivery" = "Delivery";
+"total" = "Total";
+"free" = "Free";
+"confirm" = "Confirm";
+
+//MARK: - Checkout
+"pickupPoint" = "Pickup point";
+"deliveryAddress" = "Delivery address";
+"comment" = "Comment";
+"commentSubtitle" = "Leave a request for delivery";
+"payment" = "Payment";
+"pickupPhoneSubtitle" = "Pickup point phone";
+"noBranch" = "No selected branch";
+"promoNotFound" = "Promo code does not exist, try entering a valid promo code";
+"promoMinimumPrice" = "This promo code is applicable for orders with a minimum price of %@.";
+
+"myAddress" = "My addresses";
+"paymentMethod" = "Payment Methods";
+"enterPromo" = "Enter promo code";
+"enterCashback" = "Enter the amount from your cashback balance";
+"cashbackPay" = "Enter the amount you'd like to pay from cashback balance";
+"cashbackBalance" = "Your Cashback balance: %@";
+"amountExceedsLimit" = "Amount exceeds the allowed limit.";
+"branch" = "Branches";
+"pickupTime" = "Pickup Time";
+"deliveryTime" = "Delivery Time";
+"orderCanNotBeCreated" = "Order can't be created";
+
+//MARK: - Order
+"startTime" = "Order Start Time";
+"acceptTime" = "Order Accept Time";
+"completeTime" = "Order Complete Time";
+
+"branch" = "Branch";
+"courier" = "Courier";
+"address" = "Address";
+"pickup" = "Pick up";
+
+"pickedUp" = "Picked Up";
+"canceled" = "Canceled";
+"process" = "Process";
+"inProgress" = "In progress";
+"order" = "Order";
+"activeOrder" = "Active Orders";
+
+"selectPayment" = "Please select payment method";
+"selectBranch" = "Please Select One of the Branches";
+"openFromTo" = "Open from %@ to %@ ";
+"deliveryFromTo" = "Delivery from %@ to %@ ";
+"asap" = "As soon as possible";
+"chooseTime" = "Choose Pickup Time";
+"orderComment" = "Write about your order";
+"rate" = "Rate";
+"rateTitle" = "Rate the order";
+"rateSub" = "Share your experience to make our service better.";
+"feedback" = "Feedback";
+
+
+//MARK: - OrderInfo
+"paymentType" = "Payment method";
+"paymentAmount" = "Payment amount";
+"paymentStatus" = "Payment Status";
+"waiting" = "Waiting";
+"paid" = "Paid";
+"notPaid" = "Not Paid";
+"cash" = "Cash";
+"repeat" = "Repeat";
+
+//MARK: - OrderLive
+"creating" = "Order is being created";
+"created" = "Created";
+"open" = "Open";
+"accepted" = "Accepted";
+"cooking" = "Cooking";
+"cooked" = "Cooked";
+"onWay" = "On the Way";
+"delivered" = "Delivered";
+"readyForPickup" = "Ready for Pickup";
+"learnMore" = "Learn more";
+"pay" = "Pay";
+"later" = "Later";
+"call" = "Call";
+"recomendToAdd" = "We recommend adding";
+"orderScheduled" = "Order is scheduled";
+"emptyMenu" = "Menu is empty";

@@ -1,0 +1,23 @@
+/* 
+  Common.strings
+
+
+  Created by Asilbek Isakov on 11/01/24.
+  
+*/
+
+"no" = "Нет";
+"yes" = "Да";
+"confirm" = "Подтвердить";
+"continue" = "Продолжить";
+"uzs" = "сум";
+"min" = "мин";
+"reload" = "Перезагрузить";
+"offline" = "Офлайн режим";
+"notConnected" = "Подключение к интернету отсутствует";
+"update" = "Обновить";
+"updateTitle" = "Обновить приложение";
+
+"gramm" = "гр.";
+"count" = "шт";
+"liter" = "л.";

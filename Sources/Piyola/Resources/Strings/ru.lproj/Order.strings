@@ -1,0 +1,47 @@
+/*
+  Localizable.strings
+  
+
+  Created by Bilol Sanatillayev on 14/11/24.
+  
+*/
+"main" = "Главная";
+"log" = "ЛОГ";
+"receipt" = "Чек";
+"client" = "Клиент";
+"operator" = "Оператор";
+"add" = "Добавить";
+"notAssignedYet" = "Еще не назначено";
+"tariff" = "Тариф доставки";
+"carNumber" = "Номер машины";
+"distanse" = "Расстояние";
+"addressName" = "Название адреса";
+"asap" = "Скорее";
+
+// courier statuses
+"newOrder" = "Новый заказ";
+"estimatingFailed" = "Оценка не удалась";
+"readyForApproval" = "Готово для утверждения";
+"failed" = "Не удалось";
+"performerLookUp" = "Поиск исполнителя";
+"performerFound" = "Исполнитель найден";
+"performerNotFound" = "Исполнитель не найден";
+"accepted" = "Принято";
+"performerPickUpArrived" = "Прибытие на место";
+"performerPickedUp" = "Забрано";
+"performerArrived" = "Прибыл";
+"performerDeliveredFinish" = "Доставлено";
+"performerReturning" = "Возвращение";
+"performerReturnArrived" = "Возвращение прибыло";
+"performerReturnedFinish" = "Возврат завершен";
+"cancelled" = "Отменено";
+
+"changeStatus" = "Изменить статус";
+"deliveryType" = "Тип доставки";
+"pressToConfirm" = "Нажмите для подтверждения";
+
+"showOnMap" = "Показать на карте";
+"emptyOrdersList" = "Список заказов пустой";
+"photo" = "Фото";
+"emptyCallHistory" = "История звонков пуста";
+"emptyPaymentHistory" = "История оплаты пуста";

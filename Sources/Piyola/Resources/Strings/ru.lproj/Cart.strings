@@ -1,0 +1,103 @@
+/*
+ Cart.strings
+  
+
+  Created by Bilol Sanatillayev on 04/06/24.
+  
+*/
+
+"clearCart" = "Очистить корзину";
+"delete" = "Удалить";
+"cancel" = "Отменить";
+
+"empty" = "Корзина пуста";
+"emptySubtitle" = "Это необходимо, чтобы начать заказывать продукцию и отслеживать ее.";
+
+"bill" = "Счет";
+"product" = "продукт";
+"checkout" = "К оплате";
+"discount" = "Скидка";
+"promo" = "Промо код";
+"cashback" = "Кешбек";
+"delivery" = "Доставка";
+"total" = "Итого";
+"free" = "Бесплатно";
+"confirm" = "Подтвердить";
+
+//Checkout
+"pickupPoint" = "Пункт самовывоза";
+"deliveryAddress" = "Адрес доставки";
+"comment" = "Комментарий";
+"payment" = "Оплата";
+"commentSubtitle" = "Оставьте запрос на доставку";
+"pickupPhoneSubtitle" = "Телефон пункта самовывоза";
+"noBranch" = "Отделение не выбрано";
+"promoNotFound" = "Промокод не найден, попробуйте ввести действующий промокод";
+"promoMinimumPrice" = "Этот промокод действует для заказов на сумму не менее %@.";
+
+"myAddress" = "Мои адреса";
+"paymentMethod" = "Способы оплаты";
+"enterPromo" = "Введите промо код";
+"enterCashback" = "Введите сумму с вашего баланса кэшбэка";
+"cashbackPay" = "Введите сумму, которую хотите оплатить с баланса кэшбэка";
+"cashbackBalance" = "Ваш баланс кэшбэка: %@";
+"amountExceedsLimit" = "Сумма превышает допустимый лимит.";
+"branch" = "Филиал";
+"pickupTime" = "Время самовывоза";
+"deliveryTime" = "Время доставки";
+"orderCanNotBeCreated" = "Заказ не может быть создан";
+
+//Order
+"startTime" = "Время начала заказа";
+"acceptTime" = "Время принятия заказа";
+"completeTime" = "Время завершения заказа";
+
+"branch" = "Филиал";
+"courier" = "Курьер";
+"address" = "Адрес";
+"pickup" = "Забрать";
+
+"pickedUp" = "Забрано";
+"canceled" = "Отменено";
+"process" = "Процесс";
+"inProgress" = "В процессе";
+"order" = "Заказ";
+"activeOrder" = "Активные заказы";
+
+"selectPayment" = "Пожалуйста, выберите способ оплаты";
+"selectBranch" = "Пожалуйста, выберите одно из отделений";
+"openFromTo" = "Открыто с %@ до %@";
+"deliveryFromTo" = "Доставка с %@ до %@";
+"asap" = "Как можно скорее";
+"chooseTime" = "Выберите время для получения";
+"orderComment" = "Напишите о вашем заказе";
+"rate" = "Оценить";
+"rateTitle" = "Оценить заказ";
+"rateSub" = "Поделитесь своим опытом, чтобы сделать наш сервис еще лучше.";
+"feedback" = "Обратная связь";
+
+"paymentType" = "Способ оплаты";
+"paymentAmount" = "Сумма оплаты";
+"paymentStatus" = "Статус оплаты";
+"waiting" = "Ожидание";
+"paid" = "Оплачено";
+"notPaid" = "Не оплачено";
+"cash" = "Наличные";
+"repeat" = "Повторить";
+
+"creating" = "Заказ создается";
+"created" = "Заказ создан";
+"open" = "Открыто";
+"accepted" = "Принят";
+"cooking" = "Готовится";
+"cooked" = "Приготовлено";
+"onWay" = "В пути";
+"delivered" = "Доставлено";
+"readyForPickup" = "Готов к выдаче";
+"learnMore" = "Подробно";
+"pay" = "Оплатить";
+"later" = "Позже";
+"call" = "Позвонить";
+"recomendToAdd" = "Рекомендуем добавить";
+"orderScheduled" = "Заказ запланирован";
+"emptyMenu" = "Меню пусто";

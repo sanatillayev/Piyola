@@ -1,0 +1,23 @@
+/* 
+  Common.strings
+
+
+  Created by Asilbek Isakov on 11/01/24.
+  
+*/
+
+"no" = "Yo‘q";
+"yes" = "Ha";
+"confirm" = "Tasdiqlash";
+"continue" = "Davom etish";
+"uzs" = "so'm";
+"min" = "daq";
+"reload" = "Qayta yuklash";
+"offline" = "Oflayn rejim";
+"notConnected" = "Internetga ulanish mavjud emas";
+"update" = "Yangilash";
+"updateTitle" = "Ilovani yangilang";
+
+"gramm" = "gr.";
+"count" = "dona";
+"liter" = "liter";

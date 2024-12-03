@@ -1,0 +1,40 @@
+/*
+  Localizable.strings
+  
+
+  Created by Asilbek Isakov on 11/01/24.
+  
+*/
+
+"settings" = "Настройки";
+"newOrder" = "Новый заказ";
+"orders" = "Заказы";
+
+"home" = "Главная";
+"cart" = "Корзина";
+"profile" = "Профиль";
+"continue" = "Continue";
+"delivery" = "Доставка";
+"pickUp" = "Самовывоз";
+"selectBranch" = "Выберите филиал";
+"selectAddress" = "Выберите адрес";
+
+"accepted" = "Принято";
+"cooking" = "Готовится";
+"onWay" = "В пути";
+"delivered" = "Доставлено";
+"ready" = "Готово";
+"activeOrders" = "Aктивные заказы";
+"archiveOrders" = "Архивированные заказы";
+"addToCart" = "Добавить";
+"result" = "Результат";
+"history" = "История поиска";
+"openMap" = "Открыть карту";
+"addAddress" = "Добавить адрес";
+
+"all" = "Все";
+"calls" = "Звонки";
+"notifications" = "Уведомления";
+"promocodes" = "Промокоды";
+"addresses" = "Адреса";
+"devices" = "Устройства";

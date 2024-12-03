@@ -1,0 +1,103 @@
+/*
+ Cart.strings
+  
+
+  Created by Bilol Sanatillayev on 04/06/24.
+  
+*/
+
+"clearCart" = "Savatni bo'shatish";
+"delete" = "O'chirish";
+"cancel" = "Bekor Qilish";
+
+"empty" = "Savat bo'sh";
+"emptySubtitle" = "Bu mahsulotlarga buyurtma berish va ularni kuzatishni boshlash uchun kerak.";
+
+"bill" = "Hisob";
+"product" = "mahsulot";
+"checkout" = "Rasmiylashtirish";
+"discount" = "Chegirma";
+"promo" = "Promo kod";
+"cashback" = "Keshbek";
+"delivery" = "Yetkazib berish";
+"total" = "Jami";
+"free" = "Bepul";
+"confirm" = "Tasdiqlash";
+
+//Checkout
+"pickupPoint" = "Olib ketish joyi";
+"deliveryAddress" = "Yetkazib berish manzili";
+"comment" = "Izoh";
+"payment" = "To'lov";
+"commentSubtitle" = "Kuryerga xabar qoldiring";
+"pickupPhoneSubtitle" = "Olib ketish joyining telefoni";
+"noBranch" = "Filial tanlanmagan";
+"promoNotFound" = "Promo kod topilmadi, amal qiladigan promo kodni kiriting";
+"promoMinimumPrice" = "Ushbu promo kod minimal narxi %@ bo'lgan buyurtmalar uchun amal qiladi.";
+
+"myAddress" = "Mening manzillarim";
+"paymentMethod" = "To'lov usullari";
+"enterPromo" = "Promo kod kiriting";
+"enterCashback" = "Keshbek balansidan summani kiriting";
+"cashbackPay" = "Keshbek balansidan to'lamoqchi bo'lgan summani kiriting";
+"cashbackBalance" = "Sizning keshbek balansingiz: %@";
+"amountExceedsLimit" = "Summa ruxsat etilgan limitdan oshib ketdi.";
+"branch" = "Filiallar";
+"pickupTime" = "Olib ketish vaqti";
+"deliveryTime" = "Yetkazib berish vaqti";
+"orderCanNotBeCreated" = "Buyurtma yaratib bo'lmaydi";
+
+//Order
+"startTime" = "Buyurtma boshlanish vaqti";
+"acceptTime" = "Buyurtma qabul qilish vaqti";
+"completeTime" = "Buyurtma tugallanish vaqti";
+
+"branch" = "Filial";
+"courier" = "Kuryer";
+"address" = "Manzil";
+"pickup" = "Olish";
+
+"pickedUp" = "Olib ketildi";
+"canceled" = "Bekor qilindi";
+"process" = "Tayyorlanmoqda";
+"inProgress" = "Jarayonda";
+"order" = "Buyurtma";
+"activeOrder" = "Aktiv Buyurtmalaringiz";
+
+"selectPayment" = "Iltimos, to'lov usulini tanlang";
+"selectBranch" = "Iltimos, filiallardan birini tanlang";
+"openFromTo" = "%@ dan %@ gacha ochiq";
+"deliveryFromTo" = "%@ dan %@ gacha yetkazib berish";
+"asap" = "Imkon qadar tezroq";
+"chooseTime" = "Olib ketish vaqtini tanlang";
+"orderComment" = "Buyurtmangiz haqida yozing";
+"rate" = "Baholash";
+"rateTitle" = "Buyurtmani baholang";
+"rateSub" = "Xizmatimizni yanada yaxshilash uchun tajribangizni o'rtoqlashing.";
+"feedback" = "Fikr-mulohaza";
+
+"paymentType" = "To'lov usuli";
+"paymentAmount" = "To'lov miqdori";
+"paymentStatus" = "To'lov holati";
+"waiting" = "Kutilmoqda";
+"paid" = "To'langan";
+"notPaid" = "To'lanmagan";
+"cash" = "Naqd";
+"repeat" = "Takrorlash";
+
+"creating" = "Buyurtma yaratilmoqda";
+"created" = "Buyurtma yaratildi";
+"open" = "Оchiq";
+"accepted" = "Qabul qilindi";
+"cooking" = "Tayyorlanmoqda";
+"cooked" = "Buyurtma tayyor";
+"onWay" = "Yo'lda";
+"delivered" = "Yetkazib berildi";
+"readyForPickup" = "Olib ketishga tayyor";
+"learnMore" = "Batafsil";
+"pay" = "To'lash";
+"later" = "Kayinroq";
+"call" = "Qo'ng'iroq qilish";
+"recomendToAdd" = "Qo’shishni maslahat beramiz";
+"orderScheduled" = "Buyurtma rejalashtirildi";
+"emptyMenu" = "Menu bo'sh";

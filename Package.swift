@@ -5,19 +5,30 @@ import PackageDescription
 
 let package = Package(
     name: "Piyola",
+    defaultLocalization: "en",
+    platforms: [
+        .iOS(.v15)
+    ],
     products: [
-        // Products define the executables and libraries a package produces, making them visible to other packages.
-        .library(
-            name: "Piyola",
-            targets: ["Piyola"]),
+        .library( name: "Piyola", targets: ["Piyola"]),
+    ],
+    dependencies: [
+        .package(url: "https://github.com/SnapKit/SnapKit", from: "5.7.1"),
+        .package(url: "https://github.com/scenee/FloatingPanel", from: "2.8.6"),
+        .package(url: "https://github.com/SwiftGen/SwiftGenPlugin", from: "6.6.2")
     ],
     targets: [
-        // Targets are the basic building blocks of a package, defining a module or a test suite.
-        // Targets can depend on other targets in this package and products from dependencies.
         .target(
-            name: "Piyola"),
+            name: "Piyola",
+            dependencies: ["SnapKit", "FloatingPanel"],
+            resources: [.process("Resources/Fonts")],
+            plugins: [.plugin(name: "SwiftGenPlugin", package: "SwiftGenPlugin")]
+        ),
         .testTarget(
             name: "PiyolaTests",
             dependencies: ["Piyola"]),
+    ],
+    swiftLanguageVersions: [
+        .v5
     ]
 )

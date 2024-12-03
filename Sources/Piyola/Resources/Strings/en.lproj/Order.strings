@@ -1,0 +1,47 @@
+/*
+  Localizable.strings
+  
+
+  Created by Bilol Sanatillayev on 14/11/24.
+  
+*/
+"main" = "Main";
+"log" = "LOG";
+"receipt" = "Receipt";
+"client" = "Client";
+"operator" = "Operator";
+"add" = "Add";
+"notAssignedYet" = "Not assigned yet";
+"tariff" = "Delivery tariff";
+"carNumber" = "Car number";
+"distance" = "Distance";
+"addressName" = "Address name";
+"asap" = "ASAP";
+
+// courier statuses
+"newOrder" = "New Order";
+"estimatingFailed" = "Estimation Failed";
+"readyForApproval" = "Ready for Approval";
+"failed" = "Failed";
+"performerLookUp" = "Looking for Performer";
+"performerFound" = "Performer Found";
+"performerNotFound" = "Performer Not Found";
+"accepted" = "Accepted";
+"performerPickUpArrived" = "Pick-Up Arrived";
+"performerPickedUp" = "Picked Up";
+"performerArrived" = "Arrived";
+"performerDeliveredFinish" = "Delivered";
+"performerReturning" = "Returning";
+"performerReturnArrived" = "Return Arrived";
+"performerReturnedFinish" = "Returned";
+"cancelled" = "Cancelled";
+
+"changeStatus" = "Change Status";
+"deliveryType" = "Delivery Type";
+"pressToConfirm" = "Press to Confirm";
+
+"showOnMap" = "Show on Map";
+"emptyOrdersList" = "Orders list is empty";
+"emptyCallHistory" = "Call history is empty";
+"photo" = "Photo";
+"emptyPaymentHistory" = "Payment history is empty";

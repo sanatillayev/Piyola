@@ -1,0 +1,14 @@
+/*
+  Product.strings
+  
+
+  Created by Asilbek Isakov on 22/7/24.
+  
+*/
+
+"selectOne" = "Bittasini tanlang";
+"selectSeveral" = "Bir nechta tanlang";
+"cooking" = "Tayyorlanish vaqti:";
+"time" = "%@ - %@ daq.";
+"allProducts" = "Barcha Mahsulotlar";
+"copied" = "Nusxa olindi";
