@@ -24,7 +24,7 @@ jobs:
         xcode-version: '15.0' 
 
     - name: Build Swift package
-      run: swift build
+      run: swift build -Xswiftc -target -Xswiftc arm64-apple-ios -destination 'platform=iOS Simulator,name=iPhone 15'
       env:
         CI: true
         
